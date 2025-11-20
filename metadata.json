@@ -1,0 +1,5 @@
+{
+  "name": "VidScribe",
+  "description": "An application to summarize YouTube video transcripts using AI. Enter a YouTube URL to get a concise summary of the video's content.",
+  "requestFramePermissions": []
+}
